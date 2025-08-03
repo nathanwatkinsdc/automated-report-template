@@ -1,7 +1,7 @@
 # Automated Reporting Project Template
 
 ## Project Overview
-This template provides a standardized, reusable folder structure for automated regulatory reporting and analytics projects. Designed for a regulatory agenagency, it supports end-to-end data processing workflows from raw loan-level data to professional PDF and Excel reports.
+This template provides a standardized, reusable folder structure for automated regulatory reporting and analytics projects. Designed for a regulatory agency, it supports end-to-end data processing workflows from raw loan-level data to professional PDF and Excel reports.
 
 ## 🗂️ Folder Structure
 
